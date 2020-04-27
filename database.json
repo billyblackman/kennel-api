@@ -20,6 +20,13 @@
       "breed": "Retriever",
       "customerId": 3,
       "locationId": 2
+    },
+    {
+      "name": "Tooter Spagooter",
+      "breed": "Rat",
+      "locationId": 1,
+      "customerId": 4,
+      "id": 4
     }
   ],
   "customers": [
@@ -78,6 +85,24 @@
       "locationId": 1,
       "address": "305 Vine Street",
       "id": 5
+    },
+    {
+      "name": "Jimbert Samueltonson",
+      "locationId": 2,
+      "address": "85 Highway Circle",
+      "id": 6
+    },
+    {
+      "name": "Ellen Embossaque",
+      "locationId": 2,
+      "address": "9084 Turntown Road",
+      "id": 7
+    },
+    {
+      "name": "Tester",
+      "locationId": 2,
+      "address": "234234",
+      "id": 8
     }
   ],
   "locations": [
