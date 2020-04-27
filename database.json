@@ -24,24 +24,27 @@
   ],
   "customers": [
     {
-      "id": 1,
-      "name": "Hannah Hall",
-      "address": "7002 Chestnut Ct"
-    },
-    {
-      "id": 2,
-      "name": "Simeon Saltzburg",
-      "address": "123 Wallace Lane"
-    },
-    {
-      "id": 3,
-      "name": "Phil Phang",
-      "address": "867 Dolby Drive"
-    },
-    {
       "email": "me@me.com",
       "password": "password",
       "name": "me me",
+      "id": 1
+    },
+    {
+      "email": "you@you.com",
+      "password": "password",
+      "name": "Person",
+      "id": 2
+    },
+    {
+      "email": "someone@someone.com",
+      "password": "password",
+      "name": "Person2",
+      "id": 3
+    },
+    {
+      "email": "new@new.com",
+      "password": "password",
+      "name": "New Person",
       "id": 4
     }
   ],
